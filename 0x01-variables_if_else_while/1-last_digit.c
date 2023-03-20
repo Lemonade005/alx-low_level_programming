@@ -4,10 +4,10 @@
 #include<math.h>
 int main(void)
 {
-       int x, n;
-Srand(time(0));
+       int x;
+     srand(time(0));
 n = rand() - RAND_MAX \ 2;
-
+x = n;
 /* printf ("last digit of" , n , "is" , x);*/
 if (x > 5)
 {
