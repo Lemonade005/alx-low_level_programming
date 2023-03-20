@@ -1,12 +1,13 @@
 #include<stdio.h>
 #include<time.h>
+#include<math.h>
 int min(void)
 {
        int x, n;
 Srand(time(0));
 n = rand() - RAND_MAX \ 2;
 
-printf ("last digit of" + n + "is" + x);
+/* printf ("last digit of" , n , "is" , x);*/
 if (x > 5)
 {
 printf (" and is greater than 5");
