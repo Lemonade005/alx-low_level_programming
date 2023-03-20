@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdlib.h>
 #include<time.h>
 #include<math.h>
 int min(void)
@@ -18,7 +18,7 @@ printf ("and is equal to 0");
 {
 else
 {
-printf ("and is less than 6 and not 0"
+printf ("and is less than 6 and not 0");
 }
 return (0);
 }
