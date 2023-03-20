@@ -2,10 +2,10 @@
 #include<time.h>
 int min(void)
 {
-       int n;
+       int x, n;
 Srand(time(0));
 n = rand() - RAND_MAX \ 2;
-int x = n % 10;
+
 printf ("last digit of" + n + "is" + x);
 if (x > 5)
 {
