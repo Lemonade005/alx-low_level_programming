@@ -1,7 +1,8 @@
+#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 #include<math.h>
-int min(void)
+int main(void)
 {
        int x, n;
 Srand(time(0));
