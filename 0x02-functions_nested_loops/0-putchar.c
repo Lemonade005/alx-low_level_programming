@@ -1,5 +1,6 @@
 #include "main.h"
-
+#include<stdlib.h>
+#include<stdio.h>
 /*
  * main - prints _putchar and a new line
  * Return: Always 0
@@ -18,6 +19,4 @@ int main(void)
 
 	return (0);
 }
-
-
 
